@@ -16,7 +16,7 @@
 
 ## Demo 🔥
 
-<a href="https://s-youtube-clone.netlify.app/" target="_blank">Live Demo</a>
+<a href="https://g-clone-app.netlify.app/" target="_blank">Live Demo</a>
 
 ## Available Scripts 🔥
 
